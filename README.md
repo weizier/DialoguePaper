@@ -11,7 +11,7 @@
     * Rich Dialog Context
     * Diversity
     * Inteprebility
-  * [Question Aswering](#question-answering)
+  * [Question Answering](#question-answering)
     * QA Matching
     * Knowledge Graph Representation
     * KBQA
@@ -214,7 +214,7 @@ Deep Model](http://coai.cs.tsinghua.edu.cn/hml/media/files/2018SIGIR_Wangwenjie.
 * [Learning to Control the Specificity in Neural Response Generation](http://aclweb.org/anthology/P18-1102) Ruqing Zhang et al 2018.
 
 
-## Question Aswering
+## Question Answering
 
 ### QA Matching
 - [Neural Information Retrieval: A Literature Review](https://arxiv.org/pdf/1611.06792.pdf)
